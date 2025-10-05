@@ -64,7 +64,6 @@ def decrypt(cipher_text, key):
             plain += matrix[row1][col2] + matrix[row2][col1]
     return plain
 
-# --- Example usage ---
 key = input("Enter Playfair key: ")
 pt = input("Enter plaintext: ")
 ct = encrypt(pt, key)
