@@ -13,7 +13,6 @@ def encrypt_rail_fence(text, key):
         row += 1 if dir_down else -1
     return ''.join(rail)
 
-# --- Networking code ---
 s = socket.socket()
 s.connect(('localhost', 15555))
 key = int(input("Enter rail fence key (number of rails): "))
