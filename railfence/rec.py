@@ -39,7 +39,6 @@ def decrypt_rail_fence(cipher, key):
         row += 1 if dir_down else -1
     return "".join(result)
 
-# --- Networking code ---
 s = socket.socket()
 s.bind(('localhost', 15555))
 s.listen(1)
