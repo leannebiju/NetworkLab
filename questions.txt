@@ -3,7 +3,7 @@
 3. LZW - print dictionary growth
 4. Hamming - no of parity find eqn?
 5. CRC
-6. UDP connection quiz indaakanam. The server will have atleast 5 question and the client has to answer it.
+6. UDP connection quiz. The server will have atleast 5 question and the client has to answer it.
 7. Reversing string in server using TCP
 
 Wireshark
