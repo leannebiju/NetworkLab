@@ -1,0 +1,19 @@
+1. UDP Client Server Program : client sends name of a city and server returns the weather based on a prefilled dictionary/array that maps a particular city to a weather (4-5 city data enough)
+2. Playfair cipher - encryption and decryption
+3. LZW - print dictionary growth
+4. Hamming - no of parity find eqn?
+5. CRC
+6. UDP connection quiz indaakanam. The server will have atleast 5 question and the client has to answer it.
+7. Reversing string in server using TCP
+
+Wireshark
+filter http , https, TCP headers
+
+NW Viva
+-AES based 2 qns
+-Blutooth which one pan lan wan or etc
+-socket and port difference
+end connection which(socket)
+-caesar cipher text and which alphabatic cipher it is
+-Distributed system based on qn
+-ARP
