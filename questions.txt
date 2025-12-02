@@ -22,3 +22,6 @@ end connection which(socket)
 -DNS working
 -Collision working
 -Types of broadcast network
+-class
+-broadcast
+-subnet
