@@ -14,7 +14,7 @@ NW Viva
 -AES based 2 qns
 -Blutooth which one pan lan wan or etc
 -socket and port difference
-end connection which(socket)
+-end connection which(socket)
 -caesar cipher text and which alphabatic cipher it is
 -Distributed system based on qn
 -ARP
