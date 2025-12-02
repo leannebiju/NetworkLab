@@ -5,6 +5,7 @@
 5. CRC
 6. UDP connection quiz. The server will have atleast 5 question and the client has to answer it.
 7. Reversing string in server using TCP
+8. TCP single chat with error detection (exception handle) and simultaneously  send and receive (multiple message        send and receive (use thread))
 
 Wireshark
 filter http , https, TCP headers
@@ -17,3 +18,7 @@ end connection which(socket)
 -caesar cipher text and which alphabatic cipher it is
 -Distributed system based on qn
 -ARP
+-VLAN
+-DNS working
+-Collision working
+-Types of broadcast network
