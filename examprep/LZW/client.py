@@ -17,6 +17,7 @@ for c in text:
     else:
         compressed.append(dictionary[w])
         dictionary[wc] = dict_size
+        print(f"Adding '{wc}' to dictionary with code {dict_size}")
         dict_size += 1
         w = c
 
