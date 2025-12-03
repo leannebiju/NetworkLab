@@ -25,3 +25,17 @@ NW Viva
 -class
 -broadcast
 -subnet
+- Class and classless IP
+- Network mask, id, broadcast address 
+- Types of networks
+- OSI & TCP models 
+- Functions of each layer
+- Port numbers and services
+- TCP and UDP
+- IPV4
+- IPV6
+- ICMP
+- Loopback address 
+- Ping
+- Firewall
+
