@@ -6,6 +6,11 @@
 6. UDP connection quiz. The server will have atleast 5 question and the client has to answer it.
 7. Reversing string in server using TCP
 8. TCP single chat with error detection (exception handle) and simultaneously  send and receive (multiple message        send and receive (use thread))
+9. Hamming code with UDP
+10. Wireshark TCP with FTP capture
+11. Wireshark UDP with DNS
+12. Implement TCP server client where server recieves message ,convert it into upper case and return back to client 
+13. MD5 hashing alg without hashing libraries
 
 Wireshark
 filter http , https, TCP headers
@@ -17,7 +22,7 @@ NW Viva
 -end connection which(socket)
 -caesar cipher text and which alphabatic cipher it is
 -Distributed system based on qn
--ARP
+-ARP vs RARP
 -VLAN
 -DNS working
 -Collision working
@@ -38,4 +43,7 @@ NW Viva
 - Loopback address 
 - Ping
 - Firewall
-
+- BGP
+- Symm and Asym encryption
+- DHCP
+- NAT
